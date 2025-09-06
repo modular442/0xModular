@@ -2,6 +2,9 @@
 
 > Author: **modular442** — head honcho of Modular Content
 
+# Modular Content™
+[Main Modular Content™ Server](https://discord.gg/zEw2FUck24)
+
 ---
 
 Just copy `bit.lua` into your project and require it:
